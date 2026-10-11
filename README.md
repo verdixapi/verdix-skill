@@ -17,7 +17,7 @@ The answer is `safe`, `caution` or `danger` with reasons (the $0.01 lite tier an
 npx skills add verdixapi/verdix-skill
 ```
 
-[ClawHub](https://clawhub.ai) (OpenClaw):
+[ClawHub](https://clawhub.ai/verdixapi/skills/verdix) (OpenClaw):
 
 ```bash
 clawhub install @verdixapi/verdix
